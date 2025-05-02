@@ -2,7 +2,9 @@ streamlit
 pandas
 numpy
 matplotlib
-tensorflow         # if you're using it
-scikit-learn       # if needed
-Pillow             # for images
+opencv-python
+tensorflow  
+torch          
+scikit-learn
+Pillow
 
