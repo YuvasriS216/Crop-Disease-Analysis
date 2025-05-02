@@ -1,0 +1,6 @@
+streamlit
+pandas
+numpy
+tensorflow       # or torch, whichever you're using
+scikit-learn     # if you're using ML models
+Pillow           # for image processing
